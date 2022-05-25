@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@potatoland4492**
 - 👀 I’m interested in **HTML/CSS/JS, Node.js, Python, C++/Arduino**.
-- 🌱 I’m currently learning **JavaScript and HTML DOM manipulation**.
+- 🌱 I’m currently learning **JavaScript and async programming**.
 - 💞️ I’m looking to collaborate on **small web projects**.
 <!-- - 📫 How to reach me... -->
 
